@@ -1,0 +1,5 @@
+{
+  "name": "CloudSploit AI Simulator",
+  "description": "A React-based dashboard simulating CloudSploit's cloud security posture management capabilities using Gemini API for finding generation and remediation advice.",
+  "requestFramePermissions": []
+}
